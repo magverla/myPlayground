@@ -10,7 +10,9 @@ namespace PLAY
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello!");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Anwendung schließt nach drücken von 'Enter'");
+            Console.WriteLine();
         }
     }
 }
