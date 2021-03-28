@@ -4,11 +4,31 @@ using System.Text;
 
 namespace PLAY.Taschenrechner.MitFloatRechnen
 {
-    class CalcWithFloat
+    public class CalcWithFloat
     {
-        static void Main(string[] args)
+        public CalcWithFloat()
         {
 
+        }
+        public void calcWithFloat()
+        {
+            Console.WriteLine("Erste Zahl");
+            float a = stringToFloat(Console.ReadLine());
+            Console.WriteLine("Zweite Zahl");
+            float b = stringToFloat(Console.ReadLine());
+            Console.WriteLine("Ergebnis: {0}", a + b);
+        }
+
+        float stringToFloat(string s)
+        {
+            try
+            {
+                return float.Parse(s);
+            }catch (System.FormatException e)
+            {
+                return float.Parse(s.Replace('.', ','));
+            }
+            
         }
     }
 }

@@ -4,7 +4,6 @@ G:\playground\c#\myPlaygroundII\myPlayground\PLAY\PLAY\bin\Debug\netcoreapp3.1\P
 G:\playground\c#\myPlaygroundII\myPlayground\PLAY\PLAY\bin\Debug\netcoreapp3.1\PLAY.runtimeconfig.dev.json
 G:\playground\c#\myPlaygroundII\myPlayground\PLAY\PLAY\bin\Debug\netcoreapp3.1\PLAY.dll
 G:\playground\c#\myPlaygroundII\myPlayground\PLAY\PLAY\bin\Debug\netcoreapp3.1\PLAY.pdb
-G:\playground\c#\myPlaygroundII\myPlayground\PLAY\PLAY\obj\Debug\netcoreapp3.1\PLAY.csprojAssemblyReference.cache
 G:\playground\c#\myPlaygroundII\myPlayground\PLAY\PLAY\obj\Debug\netcoreapp3.1\PLAY.AssemblyInfoInputs.cache
 G:\playground\c#\myPlaygroundII\myPlayground\PLAY\PLAY\obj\Debug\netcoreapp3.1\PLAY.AssemblyInfo.cs
 G:\playground\c#\myPlaygroundII\myPlayground\PLAY\PLAY\obj\Debug\netcoreapp3.1\PLAY.csproj.CoreCompileInputs.cache

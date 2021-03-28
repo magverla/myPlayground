@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PLAY.Taschenrechner.MitFloatRechnen;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +11,9 @@ namespace PLAY
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            CalcWithFloat c = new CalcWithFloat();
+            c.calcWithFloat();
+            /*Console.WriteLine("Hello World!");
             Console.WriteLine("Wie heisst du?");
             var vorname = Console.ReadLine();
             var nachname = Console.ReadLine();
@@ -26,7 +29,7 @@ namespace PLAY
             {
                 Console.WriteLine("keine ganze Zahl ->");
                 Console.WriteLine(e);
-            }
+            }*/
             
 
             
