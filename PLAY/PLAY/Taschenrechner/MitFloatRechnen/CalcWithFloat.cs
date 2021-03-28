@@ -23,10 +23,10 @@ namespace PLAY.Taschenrechner.MitFloatRechnen
         {
             try
             {
-                return float.Parse(s);
+                return Convert.ToSingle(s);
             }catch (System.FormatException e)
             {
-                return float.Parse(s.Replace('.', ','));
+                return Convert.ToSingle(s.Replace('.', ','));
             }
             
         }
