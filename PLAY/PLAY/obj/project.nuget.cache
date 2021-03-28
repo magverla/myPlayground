@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1WqPsYD91vM4urR2EE0undQn4gtx8OlfUery4gU9q1XirFi44XEEtCx5l6WGflacJDZ3ShYEEXwJ0e3gecn47A==",
+  "success": true,
+  "projectFilePath": "G:\\playground\\c#\\myPlaygroundII\\myPlayground\\PLAY\\PLAY\\PLAY.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hannes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
